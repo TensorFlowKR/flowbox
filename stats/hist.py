@@ -1,4 +1,3 @@
-
 import gzip
 import csv
 import numpy as np
